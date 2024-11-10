@@ -1,5 +1,5 @@
 {
-    "name": "phoenix/repository",
+    "name": "phpnomad/firebase-jwt-integration",
     "description": "",
     "type": "library",
     "homepage": "https://github.com/phoenix/core",
@@ -16,12 +16,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Phoenix\\Core\\": "lib/"
+            "PHPNomad\\JWT\\Firebase\\Integration\\": "lib/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Phoenix\\Core\\Tests\\": "tests/"
+            "PHPNomad\\JWT\\Firebase\\Integration\\Tests\\": "tests/"
         }
     },
     "authors": [
