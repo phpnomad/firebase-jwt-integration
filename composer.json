@@ -39,6 +39,7 @@
         }
     },
     "require": {
-        "firebase/php-jwt": "^6.10"
+        "firebase/php-jwt": "^6.10",
+        "phpnomad/auth": "^1.0"
     }
 }
