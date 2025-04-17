@@ -37,5 +37,8 @@
         "allow-plugins": {
             "phpstan/extension-installer": true
         }
+    },
+    "require": {
+        "firebase/php-jwt": "^6.10"
     }
 }
